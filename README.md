@@ -6,3 +6,5 @@
 
 ## 2018/7/8
 - [How Busy Are You? Predicting the Interruptibility Intensity of Mobile Users](https://github.com/dimension4TW/paper_notes/blob/master/notes/How%20Busy%20Are%20You_%20Predicting%20the%20Interruptibility%20%20Intensity%20of%20Mobile%20Users.md)
+- [Designing Content-driven Intelligent Notification Mechanisms for Mobile Applications](https://github.com/dimension4TW/paper_notes/blob/master/notes/Designing%20Content-driven%20Intelligent%20Notification%20Mechanisms%20for%20Mobile%20Applications.md)
+
