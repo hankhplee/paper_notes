@@ -10,3 +10,6 @@
 
 ## 2018 7/15
 - [InterruptMe: Designing Intelligent Prompting Mechanisms for Pervasive Applications](https://github.com/dimension4TW/paper_notes/blob/master/notes/InterruptMe_%20Designing%20Intelligent%20Prompting%20Mechanisms%20for%20Pervasive%20Applications.md)
+
+## 2018 8/18
+- [My Phone and Me: Understanding People’s Receptivity to Mobile Notification](https://github.com/dimension4TW/paper_notes/blob/master/notes/My%20Phone%20and%20Me_%20Understanding%20People%E2%80%99s%20Receptivity%20to%20Mobile%20Notification.md)
