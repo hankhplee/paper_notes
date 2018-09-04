@@ -1,0 +1,8 @@
+# Calling and texting(too much): Mobile maintenance expectations, (over)dependence, entrapment, and friendship satisfaction
+ 
+This article uses dialectical theory to examine how mobile phone use in close friendships affects relational expectations, the experiences of dependence, overdependence, and entrapment, and how those experiences affect relational satisfaction. Results suggest that increased mobile phone use for the purpose of relational maintenance has contradictory consequences for close friendships. Using mobile phones in close relationships increased expectations of relationship maintenance through mobile phones. Increased mobile maintenance expectations positively predicted dependence, which increased satisfaction.
+##  keypoints and findings
+
+1.  The **dependence-independence dialectic**, which has also been described as integration–separation (Werner and Baxter, 1994) and freedom to be dependent and freedom to be independent (Rawlins, 2009), is at the core of relationship maintenance (Baxter and Simon, 1993).
+2. mundane maintenance: the use of a range of media for the purpose of relational maintenance.
+3.  **Mobile maintenance expectations**: expectations of relational maintenance made possible by mobile phone technology, including communication through text messages and voice calls. The concept of mobile maintenance expectations represents the overlap between two prior aspects of relational maintenance: friendship expectations of inclusion and mundane maintenance via media. 
