@@ -14,6 +14,10 @@
 ## 2018 8/18
 - [My Phone and Me: Understanding People’s Receptivity to Mobile Notification](https://github.com/dimension4TW/paper_notes/blob/master/notes/My%20Phone%20and%20Me_%20Understanding%20People%E2%80%99s%20Receptivity%20to%20Mobile%20Notification.md)
 
+## 2018 9/4
+- [AwareNotifications: Multi-Device Semantic Notification Handling with User-Defined Preferences](https://github.com/dimension4TW/paper_notes/blob/master/notes/AwareNotifications_%20Multi-Device%20Semantic%20Notification%20Handling%20with%20User-Defined%20Preferences.md)
+- [Dismissed! A Detailed Exploration of How Mobile Phone Users Handle Push Notification](https://github.com/dimension4TW/paper_notes/blob/master/notes/Dismissed!%20A%20Detailed%20Exploration%20of%20How%20Mobile%20Phone%20Users%20Handle%20Push%20Notification.md)
+
 ## Psychology in Communication
 - [Calling and texting(too much): Mobile maintenance expectations, (over)dependence, entrapment, and friendship satisfaction](https://github.com/dimension4TW/paper_notes/blob/master/notes/Calling%20and%20texting(too%20much)_%20Mobile%20maintenance%20expectations%2C%20(over)dependence%2C%20entrapment%2C%20and%20friendship%20satisfaction.md)
 - [Close Social Relationships: An Evolutionary Perspective](https://github.com/dimension4TW/paper_notes/blob/master/notes/Close%20Social%20Relationships_%20An%20Evolutionary%20Perspective.md)
