@@ -1,6 +1,6 @@
 # HCI paper notes
 ## Receptivity Prediction
--[Beyond Interruptibility: Predicting Opportune Moments to Engage Mobile Phone Users](https://github.com/dimension4TW/paper_notes/blob/master/notes/Beyond%20Interruptibility_%20Predicting%20Opportune%20Moments%20to%20Engage%20Mobile%20Phone%20Users.md)
+- [Beyond Interruptibility: Predicting Opportune Moments to Engage Mobile Phone Users](https://github.com/dimension4TW/paper_notes/blob/master/notes/Beyond%20Interruptibility_%20Predicting%20Opportune%20Moments%20to%20Engage%20Mobile%20Phone%20Users.md)
 
 ## Psychology in Communication
 - [Calling and texting(too much): Mobile maintenance expectations, (over)dependence, entrapment, and friendship satisfaction](https://github.com/dimension4TW/paper_notes/blob/master/notes/Calling%20and%20texting(too%20much)_%20Mobile%20maintenance%20expectations%2C%20(over)dependence%2C%20entrapment%2C%20and%20friendship%20satisfaction.md)
