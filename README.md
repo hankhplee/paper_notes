@@ -1,6 +1,7 @@
 # HCI paper notes
 ## Receptivity Prediction
 - [Beyond Interruptibility: Predicting Opportune Moments to Engage Mobile Phone Users](https://github.com/dimension4TW/paper_notes/blob/master/notes/Beyond%20Interruptibility_%20Predicting%20Opportune%20Moments%20to%20Engage%20Mobile%20Phone%20Users.md)
+- [Didn’t You See My Message? Predicting Attentiveness to Mobile Instant Messages](https://github.com/dimension4TW/paper_notes/blob/master/notes/Didn%E2%80%99t%20You%20See%20My%20Message.md)
 
 ## Relationship Prediction
 - [Mining Smartphone Data to Classify Life-Facets of Social Relationships](https://github.com/dimension4TW/paper_notes/blob/master/notes/Mining%20Smartphone%20Data.md)
