@@ -1,4 +1,4 @@
-# Show Me Your Phone, I Will Tell You Who Your Friends Are: Analyzing Smartphone Data To Identify Social Relationships
+# [Show Me Your Phone, I Will Tell You Who Your Friends Are: Analyzing Smartphone Data To Identify Social Relationships](https://dl.acm.org/citation.cfm?doid=2836041.2836048)
 
 using calls, SMS, MMS and email to predict social relationship(work, family and social-interation)
 
