@@ -33,34 +33,42 @@ d) withdraw it
 - 70% of the notifications that a user receives belong to email and chat categories, and we can further use the social circles of users to sub-categorize email and chat notifications. But user do not create social circles on every communication app and not all communication applications facilitate users to create social circles.
 
 
-## Experiment
-1. Data Colleciton ![](https://i.imgur.com/2ccZCT2.png)
-2. NotifyMe also collects subjective data from its users by triggering six questionnaires each day (new questionniare does not triggered for the next 30 minutes). 
+## Exp
+### Data Colleciton 
+![](https://i.imgur.com/2ccZCT2.png)
+1. NotifyMe collects subjective data from its users by triggering six questionnaires each day (new questionniare does not triggered for the next 30 minutes). 
 ![](https://i.imgur.com/RJMrOSV.png)
-3. NotifyMe posts 12 notifications on the user’s smartphone containing information that is randomly chosen from breaking news, weather update, and Facebook likes to enhence the richness of the categories of information received by participants.
-4. 35 participants btw 21 and 35.
-5. The work split the chat and email notifications in the following four sub-categories based on the sender’s relationship with the recipient of a notification: 
+2. NotifyMe posts 12 notifications on the user’s smartphone containing information that is randomly chosen from breaking news, weather update, and Facebook likes to enhence the richness of the categories of information received by participants.
+3. 35 participants btw 21 and 35.
+
+### Features
+1. Splitting the chat and email notifications in the following four sub-categories based on the sender’s relationship with the recipient of a notification: 
     * Work: sender works or studies with the recipient
     * Social: sender has a social tie with the recipient
     * Family: sender is the recipient’s family member or relative
     * Other: sender not related to the recipient with the above relations
 ![](https://i.imgur.com/Rc8To4x.png)
-6. Category probability list for each location:
+2. Category probability list for each location:
 - Workplace: work, social, family
 - Home: social, family, work
 - Other: family, social, work
 
-7. Feature Ranking: the name of the app from which the notification is triggered, and the app category are the most important features.
+3. Feature Ranking: the name of the app from which the notification is triggered, and the app category are the most important features.
 ![](https://i.imgur.com/A1ik13i.png)
 
-8. Building prediction model:
-- Data-driven learning
+### Model
+#### models
+    1. Naive Bayes
+    2. AdaBoost
+    3. Random Forest.
+
+#### Data-driven learning
 to evaluate the value of using the information type and social circle, the prediction models is built in three ways:
     1) without using information type and social circle; 
     2) using only information type; 
     3) using information type and social circle.
 
-- User-defined Rules:
+#### User-defined Rules:
     base on answered questionnaires
     1) notification category
     2) best location
@@ -69,7 +77,7 @@ to evaluate the value of using the information type and social circle, the predi
 ![](https://i.imgur.com/Gs7x397.png)
 
 
-9. Online-learning: on day N a model was built by using notifications from day 1 to N and it was evaluated to predict the acceptance of notifications that arrived on day N+1.
+2. Online-learning: on day N a model was built by using notifications from day 1 to N and it was evaluated to predict the acceptance of notifications that arrived on day N+1.
 
 ![](https://i.imgur.com/wTxv6WS.png)
 
