@@ -59,21 +59,21 @@ d) withdraw it
 
 ### Model
 #### models
-    1. Naive Bayes
-    2. AdaBoost
-    3. Random Forest.
+1. Naive Bayes
+2. AdaBoost
+3. Random Forest.
 
 #### Data-driven learning
-to evaluate the value of using the information type and social circle, the prediction models is built in three ways:
-    1) without using information type and social circle; 
-    2) using only information type; 
-    3) using information type and social circle.
+To evaluate the value of using the information type and social circle, the prediction models is built in three ways:
+1. without using information type and social circle; 
+2. using only information type; 
+3. using information type and social circle.
 
 #### User-defined Rules:
-    base on answered questionnaires
-    1) notification category
-    2) best location
-    3) best time
+Base on answered questionnaires
+1. notification category
+2. best location
+3. best time
 
 ![](https://i.imgur.com/Gs7x397.png)
 
