@@ -35,13 +35,14 @@ d) withdraw it
 
 ## Exp
 ### Data Colleciton 
-![](https://i.imgur.com/2ccZCT2.png)
 1. NotifyMe collects subjective data from its users by triggering six questionnaires each day (new questionniare does not triggered for the next 30 minutes). 
 ![](https://i.imgur.com/RJMrOSV.png)
 2. NotifyMe posts 12 notifications on the user’s smartphone containing information that is randomly chosen from breaking news, weather update, and Facebook likes to enhence the richness of the categories of information received by participants.
 3. 35 participants btw 21 and 35.
 
 ### Features
+
+![](https://i.imgur.com/2ccZCT2.png)
 1. Splitting the chat and email notifications in the following four sub-categories based on the sender’s relationship with the recipient of a notification: 
     * Work: sender works or studies with the recipient
     * Social: sender has a social tie with the recipient
