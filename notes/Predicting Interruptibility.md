@@ -20,7 +20,7 @@ Provide two contribution in Quantified-Self applications to reduce data logging 
         - Occasioning use (e.g. IM notification)
         - Filling time (using mobile phone)
         - Micro-breaks (users self interrupt their main task)
-2. Altert Dialogs
+2. Alert Dialogs
     - quick to interact
     - easy to dismiss
 ![](https://i.imgur.com/o6sTBSt.png)
@@ -29,6 +29,8 @@ Provide two contribution in Quantified-Self applications to reduce data logging 
 ![](https://i.imgur.com/yTnHJ1j.png)
 
 4. LifeTracker
+    - the alert is only generated when the screen is unlock
+    - the probability of gnerating a alert started from 50% and is modified based on users' interaction with dialogs.
 ![](https://i.imgur.com/eNL0ayb.png)
 
 5. Features and Target
@@ -128,8 +130,10 @@ Provide two contribution in Quantified-Self applications to reduce data logging 
 1. The research app is not merely designed to collect data
     - other reasons for the user not to contribute the data
     - quality of the data
-2. Alert Dialog may be itself too intrusive 
+2. Alert Dialog may be itself too intrusive
+3. Only capture data when the phone is in used. Less concern in other application field (e.g. location based mobile croud sourcing)
+4. Over-presented in dataset for certain participants. 
 
 ### Insights for me
-1. Thoughtful in considering the interrupting nature (not derectly derived the interactions as non-distrupting)
+1. The work considered the interrupting nature, instead of directly deriving the interactions as non-distrupting or distrupting.
 2. Post study survey could emphasize more on when and how the prediction may not be good.
