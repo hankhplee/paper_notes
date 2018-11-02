@@ -23,7 +23,7 @@ Provide two contribution in Quantified-Self applications to reduce data logging 
 2. Alert Dialogs
     - quick to interact
     - easy to dismiss
-![](https://i.imgur.com/o6sTBSt.png)
+    - ![](https://i.imgur.com/o6sTBSt.png)
 
 3. Opportune Interruption using alert dialogs
 ![](https://i.imgur.com/yTnHJ1j.png)
@@ -34,9 +34,9 @@ Provide two contribution in Quantified-Self applications to reduce data logging 
 ![](https://i.imgur.com/eNL0ayb.png)
 
 5. Features and Target
+    - ![](https://i.imgur.com/rQAgPgA.png)
     - dismiss vs accept
     - data contribution
-![](https://i.imgur.com/rQAgPgA.png)
 
 6. exp setup
     - Four week field study
