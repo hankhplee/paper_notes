@@ -130,6 +130,6 @@ Provide two contribution in Quantified-Self applications to reduce data logging 
     - quality of the data
 2. Alert Dialog may be itself too intrusive 
 
-### Insight for me
+### Insights for me
 1. Thoughtful in considering the interrupting nature (not derectly derived the interactions as non-distrupting)
 2. Post study survey could emphasize more on when and how the prediction may not be good.
